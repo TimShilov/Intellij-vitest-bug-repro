@@ -1,0 +1,9 @@
+{
+  "name": "intellij-vitest-bug-repro",
+  "dependencies": {
+    "vitest": "0.34.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
